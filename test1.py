@@ -37,7 +37,7 @@ def test_1():
 
 
 if __name__ == '__main__':
-    # test_1()
+    test_1()
     list_of_list = [
         ['a', 'b', 'c'],
         ['d', 'e', 'f', 'h', False],
